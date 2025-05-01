@@ -13,6 +13,17 @@ A real-time system monitoring dashboard for M1 MacBook, built with Python and Fl
 - Network connections monitoring
 - Temperature sensors (if available)
 
+## Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Network Monitoring
+![Network](screenshots/network.png)
+
+### Process Monitor
+![Processes](screenshots/processes.png)
+
 ## Requirements
 
 - Python 3.x
@@ -55,10 +66,6 @@ python app.py
 ```
 http://127.0.0.1:3000
 ```
-
-## Screenshots
-
-[Add screenshots of your application here]
 
 ## License
 
